@@ -1,4 +1,4 @@
 # My Work
-Practice Git
+Practice Git commands
 Practice C code from GeeksforGeeks
 Implement Open Source Projects
